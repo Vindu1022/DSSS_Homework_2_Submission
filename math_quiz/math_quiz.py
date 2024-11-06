@@ -1,4 +1,4 @@
-# improved code with modifications
+# make improved code with modifications
 
 import random
 
